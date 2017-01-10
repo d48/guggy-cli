@@ -1,6 +1,6 @@
 {
   "name": "guggy-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Have guggy on the command line",
   "main": "index.js",
   "bin": {
