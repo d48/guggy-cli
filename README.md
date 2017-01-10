@@ -11,7 +11,7 @@ Assumes in a unix environment like OSX.
 1. Get a guggy.com API key via their contact form
 2. Clone this repo
 3. `npm i && npm link`
-4. export GUGGY_API_KEY=<your api key>
+4. export GUGGY_API_KEY='<your api key>'
 
 
 # Usage
