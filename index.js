@@ -7,7 +7,12 @@ const opts = {
   apiKey: process.env.GUGGY_API_KEY
 }
 
-var sentence = args[2] || 'barking dogs'
+var sentence = args[2] || 'all your base are belong to us'
+
+if (!opts.apiKey) {
+  console.log('You need to specify a GUGGY_API_KEY in your enviroment. Check installation notes.')
+  return;
+}
 
 Guggy.init(opts);
 
