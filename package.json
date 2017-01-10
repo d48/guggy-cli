@@ -1,0 +1,20 @@
+{
+  "name": "guggy-cli",
+  "version": "1.0.0",
+  "description": "Have guggy on the command line",
+  "main": "index.js",
+  "dependencies": {
+    "@guggy/guggy-js-sdk": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "guggy",
+    "cli",
+    "gif"
+  ],
+  "author": "Ryan Regalado",
+  "license": "ISC"
+}
