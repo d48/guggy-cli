@@ -20,14 +20,14 @@ Assumes in a unix environment like OSX.
 $ gugcli '<sentence to search for>' | defaults to 'all your base are belong to us'
 ```
 
-https://img.guggy.com/media/kRxydslQVJ/animated/0/o/guggy.gif
+![gif](https://img.guggy.com/media/kRxydslQVJ/animated/0/o/guggy.gif)
 
 
 ```bash
 $ gugcli 'wannna grab some coffee?'
 ```
 
-https://img.guggy.com/media/QsMnQEgAVA/animated/0/o/guggy.gif
+![gif](https://img.guggy.com/media/QsMnQEgAVA/animated/0/o/guggy.gif)
 
 # Contribute / Hack
 
